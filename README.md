@@ -4,4 +4,4 @@ Woria est un MMORPG développé en Pascal Objet et Game maker Studio (1.x) dont 
 
 Je débutais relativement en programmation, le code n'est pas toujours commenté et les règles de style ne sont pas forcément respectées. (pas assez d'espaces, code pas forcément bien structuré, un peu brouillon et pas très clair pour quelqu'un d'extérieur)
  
-Site du jeu dont est tité cet updater : http://woria.net
+Site du jeu dont est tité cet updater : [http://woria.net](https://sjoube.net/woria/)
